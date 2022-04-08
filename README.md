@@ -18,6 +18,7 @@ The quick, brown fox jumps over the lazy dog!
 
 Output:
 ```
-G, G, E, E, G#/Ab, G#/Ab, D, A#/Bb, C#/Db, F, D, A#/Bb, C#/Db, F, D, B, A, G#/Ab, C, D#/Eb, F#/Gb, D, A, E, F, G, G, E, B, C, C#/Db, C, D#/Eb, D, F#/Gb 
+G, G, E, E, G#/Ab, G#/Ab, D, A#/Bb, C#/Db, F, D, A#/Bb, C#/Db, F, D, B, A,
+G#/Ab, C, D#/Eb, F#/Gb, D, A, E, F, G, G, E, B, C, C#/Db, C, D#/Eb, D, F#/Gb 
 
 ```
